@@ -40,7 +40,7 @@ KPIs dynamically change based on filters.
 # 📊 Dashboard Views
 
 ## 🔹 1️⃣ Overall Sales Dashboard
-![Overall Dashboard](images/dashboard_overview.png)
+![Overall Dashboard](dashboard_overview.png)
 
 Provides a complete summary of:
 - Total Sales (307.79M)
@@ -52,7 +52,7 @@ Provides a complete summary of:
 ---
 
 ## 🔹 2️⃣ January Filter View
-![January View](images/january_filter.png)
+![January View](january_filter.png)
 
 Shows filtered analysis for January:
 - Sales: 29.41M
@@ -63,7 +63,7 @@ Shows filtered analysis for January:
 ---
 
 ## 🔹 3️⃣ March Filter View
-![March View](images/march_filter.png)
+![March View](march_filter.png)
 
 March performance breakdown:
 - Sales: 20.28M
@@ -74,7 +74,7 @@ March performance breakdown:
 ---
 
 ## 🔹 4️⃣ Brand Focus Analysis
-![Brand Focus](images/brand_focus_view.png)
+![Brand Focus](brand_focus_view.png)
 
 Detailed brand-level breakdown:
 - Apple total quantity: 1590
